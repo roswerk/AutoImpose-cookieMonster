@@ -4,6 +4,9 @@ body{
   margin: 0px;
   text-align: center;
 }
+button{
+  margin-bottom: 10px;
+}
 
 .popup{
 
@@ -15,7 +18,3 @@ body{
   transform: scaleY(-1);
   object-fit: cover;
 }
-
-/* .title{
-  margin-bottom: 0px;
-} */
