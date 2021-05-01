@@ -12,4 +12,5 @@ You're ready to go!
 ### Technologies used:
 ```HTML```
 ```CSS```
+```Javascript```
 ```Google API```
