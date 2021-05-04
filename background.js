@@ -8,10 +8,10 @@ function deletedModal(){
     console.log("We're in guys"))
 }
 
+// Create button
 let problemButton = document.createElement("button");
 let anchor = document.createElement("a");
 anchor.innerText = "Test"
-
 
 problemButton.appendChild(anchor);
 anchor.addEventListener("click", notYetSite);
@@ -31,8 +31,3 @@ chrome.tabs.query({active: true, currentWindow: true}, tabs => {
 
 });
 };
-
-
-// let help = document.createElement("h6");
-// help.innerText = "In the mean time i can.."
-// extention.appendChild(help)
